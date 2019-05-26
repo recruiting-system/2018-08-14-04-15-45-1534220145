@@ -1,4 +1,4 @@
-// Write your cade below:
+// Write your code below:
 module.exports = function main() {
   
 };
